@@ -1,3 +1,5 @@
+// http://www.codewars.com/kata/multiples-of-3-or-5
+
 function solution(number) {
   let multiples = [];
   for (let i = 1; i < number; i++) {

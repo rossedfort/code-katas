@@ -1,3 +1,5 @@
+// http://www.codewars.com/kata/highest-and-lowest
+
 function highAndLow(numbers) {
   const parsed = numbers.split(' ').map(Number);
   let max = -Infinity, min = Infinity;

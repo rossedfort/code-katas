@@ -1,3 +1,5 @@
+// http://www.codewars.com/kata/highest-and-lowest
+
 const doneOrNot = (board) => {
   const isComplete = (arr) => arr.every(el => el >= 1 && el <= arr.length);
   const isUnique = (arr) => new Set(arr).size === arr.length;
