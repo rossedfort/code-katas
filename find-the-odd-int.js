@@ -1,3 +1,5 @@
+// http://www.codewars.com/kata/find-the-odd-int
+
 function findOdd(A) {
   const occurrences = A.reduce((occurrences, number) => {
     occurrences[number] = occurrences[number] ? occurrences[number] + 1 : 1;
