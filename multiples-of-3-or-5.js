@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/multiples-of-3-or-5
+// http://www.codewars.com/kata/multiples-of-3-or-5/train/javascript
 
 function solution(number) {
   let multiples = [];

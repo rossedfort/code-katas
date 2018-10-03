@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/mumbling
+// http://www.codewars.com/kata/mumbling/train/javascript
 
 function accum(s) {
   let result = [];

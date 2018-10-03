@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/complementary-dna
+// http://www.codewars.com/kata/complementary-dna/train/javascript
 
 function DNAStrand(dna){
   return dna.split('').map(c => {

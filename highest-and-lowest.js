@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/highest-and-lowest
+// http://www.codewars.com/kata/highest-and-lowest/train/javascript
 
 function highAndLow(numbers) {
   const parsed = numbers.split(' ').map(Number);

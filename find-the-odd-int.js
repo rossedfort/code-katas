@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/find-the-odd-int
+// http://www.codewars.com/kata/find-the-odd-int/train/javascript
 
 function findOdd(A) {
   const occurrences = A.reduce((occurrences, number) => {

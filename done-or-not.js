@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/highest-and-lowest
+// http://www.codewars.com/kata/highest-and-lowest/train/javascript
 
 const doneOrNot = (board) => {
   const isComplete = (arr) => arr.every(el => el >= 1 && el <= arr.length);

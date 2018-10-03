@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/opposite-number
+// http://www.codewars.com/kata/opposite-number/train/javascript
 
 function opposite(number) {
   return number > 0 ? -number : Math.abs(number);

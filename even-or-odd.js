@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/even-or-odd
+// http://www.codewars.com/kata/even-or-odd/train/javascript/train/javascript
 
 function even_or_odd(number) {
   return number % 2 ? 'Odd' : 'Even';

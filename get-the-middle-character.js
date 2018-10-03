@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/get-the-middle-character
+// http://www.codewars.com/kata/get-the-middle-character/train/javascript
 
 function getMiddle(s) {
   const halfLength = s.length / 2;
