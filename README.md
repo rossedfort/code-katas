@@ -38,3 +38,6 @@
 * Square Every Digit
   * [code](https://github.com/rossedfort/code-katas/blob/master/square-every-digit.js)
   * [kata](http://www.codewars.com/kata/square-every-digit/train/javascript)
+* Stop Spinning my Words
+  * [code](https://github.com/rossedfort/code-katas/blob/master/stop-gninnips-my-sdrow.js)
+  * [kata](http://www.codewars.com/kata/stop-gninnips-my-sdrow/train/javascript)
