@@ -41,3 +41,6 @@
 * Stop Spinning my Words
   * [code](https://github.com/rossedfort/code-katas/blob/master/stop-gninnips-my-sdrow.js)
   * [kata](http://www.codewars.com/kata/stop-gninnips-my-sdrow/train/javascript)
+* Find the Parity Outlier
+  * [code](https://github.com/rossedfort/code-katas/blob/master/find-the-parity-outlier.js)
+  * [kata](http://www.codewars.com/kata/find-the-parity-outlier/train/javascript)
