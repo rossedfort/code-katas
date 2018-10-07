@@ -44,3 +44,6 @@
 * Find the Parity Outlier
   * [code](https://github.com/rossedfort/code-katas/blob/master/find-the-parity-outlier.js)
   * [kata](http://www.codewars.com/kata/find-the-parity-outlier/train/javascript)
+* Descending Order
+  * [code](https://github.com/rossedfort/code-katas/blob/master/descending-order.js)
+  * [kata](https://www.codewars.com/kata/descending-order/train/javascript)
