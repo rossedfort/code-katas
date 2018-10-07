@@ -47,3 +47,6 @@
 * Descending Order
   * [code](https://github.com/rossedfort/code-katas/blob/master/descending-order.js)
   * [kata](https://www.codewars.com/kata/descending-order/train/javascript)
+* Exes and Ohs
+  * [code](https://github.com/rossedfort/code-katas/blob/master/exes-and-ohs.js)
+  * [kata](https://www.codewars.com/kata/exes-and-ohs/train/javascript)
