@@ -44,3 +44,6 @@
 * Find the Parity Outlier
   * [code](https://github.com/rossedfort/code-katas/blob/master/find-the-parity-outlier.js)
   * [kata](http://www.codewars.com/kata/find-the-parity-outlier/train/javascript)
+* Shortest Word(s)
+  * [code](https://github.com/rossedfort/code-katas/blob/master/shortest-word.js)
+  * [kata](http://www.codewars.com/kata/shortest-word/train/javascript)
