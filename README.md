@@ -50,3 +50,6 @@
 * Exes and Ohs
   * [code](https://github.com/rossedfort/code-katas/blob/master/exes-and-ohs.js)
   * [kata](https://www.codewars.com/kata/exes-and-ohs/train/javascript)
+* Shortest Word(s)
+  * [code](https://github.com/rossedfort/code-katas/blob/master/shortest-word.js)
+  * [kata](http://www.codewars.com/kata/shortest-word/train/javascript)
